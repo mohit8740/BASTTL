@@ -3,9 +3,18 @@
     /* padding: 0; */
     box-sizing: border-box;
 }
+
+.navbar{
+    display: flex;
+    /* background-color: aqua; */
+}
+.navimage{
+    width:100px;
+    height:80px;
+    margin-left: 30px;
+}
 .nav{
 
-    background-color: aqua;
     width:100vw;
     height:50px
 }
@@ -19,4 +28,7 @@
     font-size: large;
     /* margin-top: 20px; */
     padding: 20px;
+}
+.lines{
+    margin-right: 10px;
 }
