@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    /* padding: 0; */
+    box-sizing: border-box;
+}
+.nav{
+
+    background-color: aqua;
+    width:100vw;
+    height:50px
+}
+.navbarui{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: baseline;
+    gap: 100px;
+    list-style: none;
+    font-size: large;
+    /* margin-top: 20px; */
+    padding: 20px;
+}
